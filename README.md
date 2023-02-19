@@ -1,4 +1,4 @@
-# 1.desafio-github
+# Desafio-github
 Desafio de Projeto Git/GitHub da DIO para o aprendizado do mesmo.
 
 Links úteis : 
